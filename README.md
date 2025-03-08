@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">-🙋‍♂️Sou programador, graduando em Ciência da Computação e Tec. Segurança da Informação<br><br>- 📚 Atualmente estudando IA e Cibersegurança<br></p>
+<p align="left">-🙋‍♂️Sou programador, graduando em Ciência da Computação e Tec. Segurança da Informação<br><br>- 📚 Atualmente estudando IA/Automação e Cibersegurança<br></p>
 
 ###
 
